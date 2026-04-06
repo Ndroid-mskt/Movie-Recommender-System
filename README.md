@@ -4,7 +4,7 @@ A content-based movie recommender system built using the TMDB 5000 dataset.
 Enter any movie and get 5 similar movie recommendations with posters.
 
 ## 🔗 Live Demo
-[Click here to open the app](YOUR_STREAMLIT_URL_HERE)
+[Click here to open the app](https://movie-recommender-system-mlprojectcse4mrid.streamlit.app/)
 
 ---
 
